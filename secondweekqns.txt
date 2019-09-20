@@ -1,0 +1,10 @@
+1. given a number create a single linked list where each node has one digit in it. your code need to have linked list created (not print 1->2->3 on the console). for example if I give 1234 as input in the memory linked list should be created with a node 1 pointing to node 2 pointing to node 3 pointing to node4
+2. given a single linked list, write a program to reverse the single linked list. for example 1->2->3 should be converted to 3->2->1. please write this program using recursion, without recursion
+3. given a single, sorted linked list convert that into a single, sorted, circular linked list. for example 1->2->3->NULL should be 1->2->3->1
+4. given a single, sorted, circular linked list and a value, insert the value as a new node at the appropriate location (to keep the linked list sorted). example 1->2->4->1 and value 3 output shoudl be 1->2->3->4->1
+5. given a single(not sorted) linked list, and a value, delete the value from the linked list. the value may exist or may not exist in the list
+6. given a single linked list, print the N element from the end of the linked list. example 1->2->3->4->5 and 2, output is 4
+7. given a single linked list and value N, delete the last N nodes of the linked list. for example 1->2->3->4 and 2, output should be 1->2->NULL
+8. given a double linked list with head and tail pointers, find the middle element of the linked list
+9. given a single, sorted linked list, find the median of the linked list
+10. given two sorted linked lists, merge them into +single sorted linked list using same nodes of bboth the lists.

@@ -1,0 +1,14 @@
+problems to solve and submit by next class
+1. given a number as input, create a single linked list for the number. example: 1234 as input you shoudl create a linked list which is in memory like 1->2->3->4 (you can print but youshould have a linked list in the data structure as well, not just print)
+
+2. given three co-ordinates X1, X2, X3, write code to find whether the points make a triagle or not and also what type of triangle (equilateral, right angle, isosceles ..)
+
+3. given two arrays which are sorted find the median element of both the arrays
+
+4. given an array who has values between 0 to 99 only (multiple times each value can occur) find the value that occurred most number of times in the array
+sites:
+
+http://entrance-exam.net/microsoft-placement-papers/
+
+http://placement.freshersworld.com/placement-papers/company/Microsoft/491
+http://www.indiabix.com/placement-papers/microsoft/
